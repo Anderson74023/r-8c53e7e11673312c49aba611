@@ -1,1 +1,2 @@
 activity-day:20779 claimed rasbt/LLMs-from-scratch 5b7a4fb01c05
+activity-day:20779 done rasbt/LLMs-from-scratch 6f0bcb708aff
